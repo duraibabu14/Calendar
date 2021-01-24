@@ -1,0 +1,5 @@
+.app__style :hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
